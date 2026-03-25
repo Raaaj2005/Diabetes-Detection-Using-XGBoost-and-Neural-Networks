@@ -34,7 +34,7 @@ To run this project, you will need:
    git clone https://github.com/Raaaj2005/Diabetes-Detection-Using-XGBoost-and-Neural-Networks
 
 2. Navigate into the downloaded project folder:
-   cd your-repo-name
+   cd Diabetes-Detection-Using-XGBoost-and-Neural-Networks
 
 3. Install the required dependencies:
    pip install pandas numpy scikit-learn tensorflow xgboost matplotlib seaborn jupyter
